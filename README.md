@@ -5,9 +5,10 @@
   - [Praciting DS & Algos in Python](https://github.com/bisharo-hassan/Algorithms-Practice)
 
 
-<h2>Certifications 
-
-
+ <h2>📑 Certifications</h2> 
+  
+[Cybersecurity Lighthouse Labs](https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:09fd42c6-49d4-3dd1-a06e-1b1b2eb9f76b)
+  
 <h2> 🤳 Connect with me:</h2>
 
 
